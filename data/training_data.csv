@@ -1,0 +1,11 @@
+run_id,game,mode,resolution,texture,shadows,aa,render_scale,cpu_usage_pct,ram_usage_pct,avg_fps
+run1,TestGame,competitive,1920x1080,high,med,taa,100,69.43714285714285,93.80285714285712,45.0
+run2,Genshin Impact,powersaver,1280x720,low,low,off,100,95.38620689655173,86.24827586206897,20.0
+run3,Genshin Impact,powersaver,1280x720,low,low,off,60,93.09,84.72666666666667,30.0
+run4,Genshin Impact,powersaver,1280x720,low,low,on,60,96.06071428571428,85.26785714285715,25.0
+run5,Genshin Impact,powersaver,1280x720,low,low,off,90,99.708,84.17200000000001,35.0
+run6,Genshin Impact,powersaver,1280x720,med,high,off,80,96.27586206896552,84.60689655172415,25.0
+run7,Genshin Impact,powersaver,1280x720,med,high,off,80,96.27586206896552,84.60689655172415,23.0
+run8,Genshin Impact,powersaver,1280x720,med,high,off,80,96.27586206896552,84.60689655172415,8.0
+run9,Genshin Impact,powersaver,1280x720,med,high,off,80,96.27586206896552,84.60689655172415,18.0
+run10,Genshin Impact,powersaver,1280x720,high,high,off,60,98.67777777777779,88.0,38.0
